@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         int studentsOfClass1 = 23;
         int studentsOfClass2 = 27;
         int studentsOfClass3 = 30;
